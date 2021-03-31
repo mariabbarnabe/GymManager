@@ -5,6 +5,7 @@ This application implements a gym manager as an example, focusing on APIs and
 database access.
 
 ## Author
+Gabriel Garcia Scanferla
 Maria Helena Braga Barnabé
 
 ## Stack
