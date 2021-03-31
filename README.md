@@ -5,8 +5,8 @@ This application implements a gym manager as an example, focusing on APIs and
 database access.
 
 ## Author
-Gabriel Garcia Scanferla
-Maria Helena Braga Barnabé
+- Gabriel Garcia Scanferla
+- Maria Helena Braga Barnabé
 
 ## Stack
 - Python 3.8.2
